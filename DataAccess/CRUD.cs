@@ -17,7 +17,7 @@ namespace DataAccess
     {
         // IDbConnection Approach from Tim Corey, YouTube (2017)
         // Transactions with Dapper from dapper-tutorial.net (2020)
-        // Try-Catch Statements in Transactions from C# Corner (2020) 
+        // Try-Catch Statements in Transactions from C# Corner (2020)
 
         public static void AddBook(Book b)
         {
