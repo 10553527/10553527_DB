@@ -1,2 +1,2 @@
-# 10553527_DB
+# 10553527_LibraryDatabase
 This project is a three-tier, full stack application built to manage a collection of books in a personal library. The user can add, edit, and delete books from a database through a Windows Forms GUI, as well as view any books saved in the database. To mitigate the risk of SQL injection, the application calls the relevant stored procedure required for the application's core functionality from the local database to carry out a transaction. This application also employs elements of OOP such as classes and objects, and interfaces like IdbConnection. It also illustrates the use of LINQ and unit tests.
